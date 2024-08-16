@@ -1,5 +1,6 @@
 # Basic-Bond-Analytics-
-Notebook doing some basic analytics on bond pricing 
+Notebook doing some basic analytics on bond pricing.
+
 This article should never be considered as investing guidance or advice in any capacity whatsoever. It is solely intended to help readers discover intriguing theories about markets that they may or may not want to explore on their own.
 
 These are my own opinions and do not represent the opinions of my employer in any capacity whatsoever.
